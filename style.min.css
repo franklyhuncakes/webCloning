@@ -1,0 +1,7 @@
+body {
+
+}
+#feature .background {
+    opacity: 0;
+    visibility: hidden;
+}
